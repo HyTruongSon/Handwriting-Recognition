@@ -1,0 +1,53 @@
+Software: Handwriting Recognition Software in Java
+Author: Hy Truong Son
+Major: BSc. Computer Science
+Class: 2013 - 2016
+Institution: Eotvos Lorand University
+Email: sonpascal93@gmail.com
+Website: http://people.inf.elte.hu/hytruongson/
+Copyright 2015 (c), all rights reserved. Only use for academic purposes.
+
+Project: Handwriting-Recognition
+||
+||--- Package: handwriting.recognition
+||    |
+||    |-- MainProgram.java
+||    |
+||    |-- MainFrame.java
+||    |
+||    |-- AboutAuthor.java
+||    |
+||    |-- TextFileViewer.java
+||    
+||
+||--- Package: Separated_Handwriting
+||    |
+||    |-- SeparatedHandwriting.java
+||    |
+||    |-- SeparatedWord.java
+||    
+||
+||--- Package: Continuous_Handwriting
+||    |
+||    |-- ContinuousHandwriting.java
+||    |
+||    |-- ContinuousWord.java
+||    
+||
+||-- Package: LibOCR
+    |
+    |-- BinaryFileReader.java
+    |
+    |-- Enhance.java
+    |
+    |-- MLP.java
+    |
+    |-- Normalization.java
+    |
+    |-- Pattern.java
+    |
+    |-- TextFilePrinter.java
+    |
+    |-- TextFileReader.java
+    |
+    |-- aRect.java

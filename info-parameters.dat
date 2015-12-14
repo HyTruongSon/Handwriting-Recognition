@@ -1,0 +1,18 @@
+Sample width:
+32
+Sample height:
+32
+Hidden layer:
+100
+Output layer:
+46
+Dictionary file:
+Models/Dictionary
+Model file:
+Models/MLP-1024-100-46
+Imported image:
+Import/Continuous.jpg
+Exported image:
+Export/demo-output.png
+Exported text:
+Export/demo-output.txt
